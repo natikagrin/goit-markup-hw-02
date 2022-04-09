@@ -1,0 +1,33 @@
+body{}
+/*booton*/
+.btn{
+    font-family: inherit;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1,62;
+    text-align: center;
+    letter-spacing: 0.03em;
+    
+}
+.btn:hover{
+    color: #FFFFFF;
+    color: #2196F3;;
+}
+/*portfolio*/
+.portfolio-title{
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 2;
+    letter-spacing: 0.06em;
+    color: #212121;
+}
+.portfolio-text{
+font-family: inherit;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 1,87;
+letter-spacing: 0.03em;
+color: #757575;}
