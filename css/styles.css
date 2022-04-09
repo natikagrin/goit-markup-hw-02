@@ -136,6 +136,9 @@ body{
         .footer{
            background: #2F303A;
         }
+        address{
+            font-style: normal;
+        }
          .contact-link{
             font-family: Roboto,sans-serif;
             font-weight: 400;
