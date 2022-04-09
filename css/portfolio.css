@@ -1,5 +1,8 @@
-body{}
+
 /*booton*/
+.btn.current {
+  background-color: var(--accsent-color);
+}
 .btn{
     font-family: inherit;
     font-weight: 500;
@@ -7,11 +10,14 @@ body{}
     line-height: 1,62;
     text-align: center;
     letter-spacing: 0.03em;
-    
+    cursor: pointer;
+    color: #212121;
 }
 .btn:hover{
-    color: #FFFFFF;
-    color: #2196F3;;
+    color:#FFFFFF;
+background-color: #2196F3;}
+.btn:focus{
+    color: #2196F3;
 }
 /*portfolio*/
 .portfolio-title{

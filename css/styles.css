@@ -15,6 +15,9 @@ body{
     .nav-list.link.current{
         color: var(--accsent-color);
     }
+    .header-link.current{
+        color: var(--accsent-color);
+    }
     .colortext{
         color: black;
         /* чорний  колір лого */
@@ -23,6 +26,7 @@ body{
         color: #FFFFFF;
         /*білий колір лого*/
     }
+  
   /*header*/
     .header{
         background-color:#FFFFFF;
