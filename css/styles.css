@@ -142,7 +142,7 @@ body{
     color: var(--second-title-color);
         }
         /*footer*/
-        .footer{
+       .footer{
            background: #2F303A;
         }
         .footer-logo{
@@ -154,10 +154,10 @@ body{
             letter-spacing: 0.03em;
              color: #2196F3;
         }
-        address{
+        address {
             font-style: normal;
         }
-         .contact-link{
+        .contact-link{
             font-family: Roboto,sans-serif;
             font-weight: 400;
             font-size: 14px;
